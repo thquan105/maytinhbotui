@@ -47,7 +47,7 @@
               <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
               <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
-              <EmptySpace pref="27" max="32767" attributes="0"/>
+              <EmptySpace pref="23" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -175,28 +175,28 @@
         <DimensionLayout dim="1">
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="JButton1" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton2" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton3" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton4" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton5" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="JButton1" max="32767" attributes="0"/>
+                      <Component id="jButton2" max="32767" attributes="0"/>
+                      <Component id="jButton3" max="32767" attributes="0"/>
+                      <Component id="jButton4" max="32767" attributes="0"/>
+                      <Component id="jButton5" alignment="0" pref="57" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="jButton6" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jBNumber7" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jBNumber8" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jBNumber9" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton7" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jButton6" max="32767" attributes="0"/>
+                      <Component id="jBNumber7" max="32767" attributes="0"/>
+                      <Component id="jBNumber8" max="32767" attributes="0"/>
+                      <Component id="jBNumber9" max="32767" attributes="0"/>
+                      <Component id="jButton7" alignment="0" pref="57" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="jButton8" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jBNumber4" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jBNumber5" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jBNumber6" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton9" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jButton8" max="32767" attributes="0"/>
+                      <Component id="jBNumber4" max="32767" attributes="0"/>
+                      <Component id="jBNumber5" max="32767" attributes="0"/>
+                      <Component id="jBNumber6" max="32767" attributes="0"/>
+                      <Component id="jButton9" alignment="0" pref="57" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
@@ -209,14 +209,15 @@
                           </Group>
                           <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="jBNumber0" min="-2" pref="57" max="-2" attributes="0"/>
-                              <Component id="jBNumber00" min="-2" pref="57" max="-2" attributes="0"/>
-                              <Component id="jButton12" min="-2" max="-2" attributes="0"/>
-                              <Component id="jButton13" min="-2" max="-2" attributes="0"/>
+                              <Component id="jBNumber0" max="32767" attributes="0"/>
+                              <Component id="jBNumber00" max="32767" attributes="0"/>
+                              <Component id="jButton12" alignment="0" pref="57" max="32767" attributes="0"/>
+                              <Component id="jButton13" alignment="0" max="32767" attributes="0"/>
                           </Group>
                       </Group>
                       <Component id="jButton11" max="32767" attributes="0"/>
                   </Group>
+                  <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -306,7 +307,7 @@
               <Color blue="0" green="0" red="0" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="38" style="1"/>
+              <Font name="Segoe UI" size="34" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -396,7 +397,7 @@
               <Color blue="0" green="0" red="0" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="38" style="1"/>
+              <Font name="Segoe UI" size="34" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -492,7 +493,7 @@
               <Color blue="0" green="0" red="0" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="38" style="1"/>
+              <Font name="Segoe UI" size="34" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -519,6 +520,9 @@
             <Property name="alignmentY" type="float" value="0.0"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Default Cursor"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[90, 38]"/>
             </Property>
           </Properties>
         </Component>
@@ -582,7 +586,7 @@
               <Color blue="0" green="0" red="0" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="38" style="1"/>
+              <Font name="Segoe UI" size="34" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -639,7 +643,7 @@
               <Color blue="0" green="0" red="0" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="38" style="1"/>
+              <Font name="Segoe UI" size="34" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -657,7 +661,7 @@
               <Color blue="0" green="0" red="0" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="38" style="1"/>
+              <Font name="Segoe UI" size="34" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
